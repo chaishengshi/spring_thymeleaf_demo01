@@ -1,9 +1,7 @@
 package com.offcn.controller;
 
 public class Test1Controller {
-    public static void main(String[] args) {
-        while(true){
-
-        }
+    public void test() {
+        System.out.println("分支");
     }
 }
